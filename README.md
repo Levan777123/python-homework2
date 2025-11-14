@@ -7,4 +7,5 @@
     me 4 tavshi davamate axali app postebi da installed appic gavanaxle radgan djangos daenaxa "posts.apps.PostsConfig", 
     axla unda shevqmna data.base pirveli step aris modelebi postis davamate class textit shemdeg gavaaqtiure migratit python manage.py makemigrations posts.
     axla gadavedi treminalshi da shevqmeni admini python manage.py createsuperuser gavushvi programa da momtxova registracia me chemi admin monacemebi sheviyvane da gadamiyvana admin administration shemdeg shevatyobine posts admin.pyshi from django.contrib import admin from .models import Post admin.site.register(Post) daemata post siteze shemdeg davawire add posts da chavwere hello world davawire saves da sheiqmna pots objecti es shevcvale post modelit limiti mivutite 50 da post objectis magivrad damiwera hello world rac jobia
-    gavanaxle post/viewsi da shevqmeni xelaxla home.html ganavaxle aseve urlsi da pages magivrad post chavwere da davamate post url da magashi patterni
+    gavanaxle post/viewsi da shevqmeni xelaxla home.html ganavaxle aseve urlsi da pages magivrad post chavwere da davamate post url da magashi patterni chavamate gavushvi programa da gamomichda home.html
+    testic gavakete da kargad imushava amit damtavda me 4 tavic. nel nela dagewevit mas ubralod gamiwirda django...
